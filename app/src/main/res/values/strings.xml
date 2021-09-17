@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkHttpUrlConnection</string>
+    <string name="request">요청</string>
+</resources>
